@@ -1,9 +1,14 @@
 <p align="center">
 
   <br />
-  Recriando a interface de login do Instagram com CSS e HTML.
+  Exercício da semana 1 do curso de Front-End da {Reprograma}, turma On23
 </p>
 
 <hr />
 
-- Desafio prático realizado para turma 20 de FrontEnd da Reprograma.
+<ul>
+  <li>Mudei a foto e o user name.</li>
+  <li>Coloquei uma animaçãozinha no botão de continue.</li>
+  <li>Os botôes da app store e play store levam para as lojas.</li>
+</ul>
+
