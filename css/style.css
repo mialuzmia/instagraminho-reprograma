@@ -83,6 +83,13 @@ body {
     border-radius: 4px;
 }
 
+.instagram-login:hover{
+    
+    transition: 0.3s; 
+    transform: scale(1.1); 
+    
+}
+
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
@@ -120,11 +127,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('/img/googleplay-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('/img/apple-button.png');
 }
 
 /* media queries */
@@ -155,4 +162,7 @@ body {
     .group {
         border: 1px solid transparent;
     }
+}
+.link-blue{
+    cursor: pointer;
 }
