@@ -126,11 +126,11 @@ body {
     background-size: cover;
 }
 
-.app-download:nth-child(1) {
+#playstore{ 
     background-image: url("/img/playstore.png"); 
 }
 
-.app-download:nth-child(2) {
+#appstore{
     background-image: url("/img/appstore.png");
 }
 
