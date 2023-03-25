@@ -9,6 +9,7 @@
 <ul>
   <li>Mudei a foto e o user name.</li>
   <li>Coloquei uma animaçãozinha no botão de continue.</li>
-  <li>Os botôes da app store e play store levam para as lojas.</li>
+  <li>Coloquei um favicon</li>
+  <li>Os botôes da app store e play store levam para as lojas agr, porem apesar de eles estarem certos quando vejo pelo visual code, quando vejo pelo github pages eles ficam invisíveis e não consegui descobrir o porque.</li>
 </ul>
 
